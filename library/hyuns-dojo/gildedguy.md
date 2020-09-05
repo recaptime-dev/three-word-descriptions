@@ -1,4 +1,4 @@
-# Three Word Descriptions (Human Readable): Animators - Hyun's Dojo Community /  
+# Three Word Descriptions (Human Readable): Animators - Hyun's Dojo Community /  Gildedguy
 
 ## No No More
 
