@@ -4,4 +4,4 @@
 
 | Screen Name (optionally real name) / Link to JSON file | Socials | Added by |
 | --- | --- | --- |
-| [Gildedguy (Michael Moy)](gildedguy.json) | [YouTube] | - |
+| [Gildedguy (Michael Moy)](hyuns-dojo/gildedguy.md) | [YouTube](https://youtube.com/user/gildedguy) / [Twitch](https://twitch.tv/gildedguy) | - |
