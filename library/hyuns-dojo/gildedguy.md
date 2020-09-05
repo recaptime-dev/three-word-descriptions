@@ -7,4 +7,6 @@
 
 ## Describe Gildedguy in 3 words
 
+* Gilding With Gold
+* Gilded With Gold
 * Add your entry here!
