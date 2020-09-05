@@ -15,19 +15,17 @@ Install the package with `npm i @recaptime/three-word-descriptions`. For Yarn us
 
 ```js
 const ThreeWordDescriptors = require('@recaptime/three-word-descriptions');
-
 console.log(ThreeWordDescriptors.gildedguy);
 
 // Also we can try this:
 const ShockThreapist = require('@recaptime/three-word-descriptions').oxob;
-
 console.log(ShockThreapist);
 ```
 
 **To directly require an JSON file**: Require BOTH the package name and path-to-file.
 
 ```js
-const describeBogIn3Words = require('@recaptime/three-word-descriptions/library/bog.json');
+const describeBogIn3Words = require('@recaptime/three-word-descriptions/src/huyns-dojo/bog.json');
 
 console.log(describeBogIn3Words);
 ```
